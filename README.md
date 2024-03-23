@@ -2,10 +2,13 @@
 
 ![Header Image](./R.gif)
 ![Header Image align ](./yes.gif)
+![Header Image align ](./yes.gif)
+
+
 
 
 <p>
-    Leanguages :
+    Leanguages I Learned :
 </p>
 
 <p> 

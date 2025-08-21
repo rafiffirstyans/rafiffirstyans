@@ -14,15 +14,14 @@
 <p> 
 
    <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    
-     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
        
 
 
 
 
 
-</p>
+
 
 👋 Hello there! I'm Rafif Firstyan, a passionate junior programmer with a flair for coding even while pursuing my high school education. 🎓 Currently enrolled in SMK BINA MANDIRI MULTIMEDIA, I'm on a journey to explore the realms of software development and technology.
 
